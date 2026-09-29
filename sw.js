@@ -1,4 +1,4 @@
-const CACHE="id-photo-v3";
+const CACHE="id-photo-v4";
 const ASSETS=["./","index.html","manifest.webmanifest"];
 
 self.addEventListener("install",event=>{
