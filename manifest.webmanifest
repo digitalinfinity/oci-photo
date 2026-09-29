@@ -1,7 +1,7 @@
 {
-  "name": "OCI Photo Helper",
-  "short_name": "OCI Photo",
-  "description": "Take and export an OCI-format photo on iPhone.",
+  "name": "ID Photo Studio",
+  "short_name": "ID Photo",
+  "description": "Privacy-first framing and export helper for OCI, U.S. passport/visa, and Schengen visa photos.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
