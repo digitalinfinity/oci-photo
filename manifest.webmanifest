@@ -1,0 +1,10 @@
+{
+  "name": "OCI Photo Helper",
+  "short_name": "OCI Photo",
+  "description": "Take and export an OCI-format photo on iPhone.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fa",
+  "theme_color": "#0b5fa5"
+}
